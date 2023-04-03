@@ -3,11 +3,14 @@
 ###### 1. How many students from each different class responded to the survey?
 
 <img width="325" alt="Pic1" src="https://user-images.githubusercontent.com/124735350/229572555-fbc249da-5162-430b-b7cb-27c9e6aaf36a.png">
+<img width="741" alt="pie1" src="https://user-images.githubusercontent.com/124735350/229580716-9f7149a0-bb48-473d-b03d-36913d6977e5.png">
 
 
 ###### 2. What are the gender percentages?
 
 <img width="146" alt="Pic2" src="https://user-images.githubusercontent.com/124735350/229572635-0251df0e-6397-4c30-a5cd-26b17207fc13.png">
+<img width="565" alt="bar1" src="https://user-images.githubusercontent.com/124735350/229580643-3d0d42c1-7b93-43f1-857b-2df9ee3b5856.png">
+
 
 ###### 3. What is the racial/ethnic diversity? For those students selecting more than one race/ethnicity, assign multi-racial to their category.
 
@@ -49,8 +52,18 @@ For each course, men made up the majority of the classes (>50%). Intro to IT had
 
 ![image](https://user-images.githubusercontent.com/124735350/229573229-f3b6fc1e-161e-4d7a-a5bf-6d8ee0234cd6.png)
 
+<img width="698" alt="pie2" src="https://user-images.githubusercontent.com/124735350/229580796-99cdf6a7-52fe-486e-8943-12c9d1ab6e02.png">
+
+
 Of the 218 students who responded to the survey, only 42 were women. Upon further analysis, only 19 women were under 25 and enrolled in an IT related degree program. This chart displays the ethinicity of those 19 women where the majority are Asain, multi-racial, hispanic, or latino. Meanwhile, only 10.59% were white/caucasion.
 
 <img width="304" alt="Pic9" src="https://user-images.githubusercontent.com/124735350/229573162-9ad3f6b4-29cc-4096-8dd3-310b235153b5.png">
 
 45.94% of females under the age of 25 taking CMP128, CMP130, CMP131, or CMP239, are majoring in computer science or information technology of which 32.43% are computer science.
+
+### Only non-IT related majors responded to the question: On a scale of 1 to 5, with 1 being not at all interested and 5 being extremely interested, how interested are you in taking more computing classes?
+
+Engineering majors expressed the most interest.
+
+<img width="359" alt="pic10" src="https://user-images.githubusercontent.com/124735350/229581110-19a7de4f-7f1b-4d31-b025-4f894400848d.png">
+
