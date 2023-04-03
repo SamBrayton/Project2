@@ -22,8 +22,11 @@
 ##### 1. What events/activities of the Department of Information Technologies had the most and least participants?
 
 Events with the most attendance:
+
 <img width="186" alt="Pic5" src="https://user-images.githubusercontent.com/124735350/229572893-4dd5867b-9c6a-4a05-9494-d326535a95f0.png">
+
 Events with the least attendance:
+
 <img width="221" alt="Pic6" src="https://user-images.githubusercontent.com/124735350/229572866-350aa197-4bfa-433c-bb66-00342f1e019b.png">
 
 
